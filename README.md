@@ -24,18 +24,18 @@ Euer Ziel ist es, das Restaurant-Projekt fertigzustellen, indem ihr Fehler beheb
 
 4. **Tests ausführen:**
    - Führt alle Tests regelmäßig aus, um sicherzustellen, dass keine Fehler mehr vorhanden sind und alle Tests grün sind.
-
-5. **Mergen in den `main`-Branch:**
+5. **Tets hinzufügen**
+   - Stellen Sie sicher, dass der name von Personen aus mindestens 5 Zeichen besteht.
+   - Wenn nciht, soll eine Exception geworfen werden.
+   - Implementieren Sie einen Test entsprechnden Test.
+   
+7. **Mergen in den `main`-Branch:**
    - Wenn alle Fehler behoben sind und alle Tests grün sind, führt den `dev`-Branch in den `main`-Branch zusammen:
      ```bash
      git checkout main
      git merge dev
      git push origin main
      ```
-
-6. **Abschluss:**
-   - Stellt sicher, dass der `main`-Branch die stabile und getestete Version des Projekts enthält.
-   - Fertigstellen der Aufgabe, sobald der `main`-Branch stabil ist und alle Tests erfolgreich laufen.
 
 ## Hinweise:
 - Arbeitet regelmäßig in `dev` und pusht eure Änderungen, um die Arbeit nachvollziehbar zu machen.
