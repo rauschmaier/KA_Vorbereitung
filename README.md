@@ -26,7 +26,7 @@ Euer Ziel ist es, das Restaurant-Projekt fertigzustellen, indem ihr Fehler beheb
    - Führt alle Tests regelmäßig aus, um sicherzustellen, dass keine Fehler mehr vorhanden sind und alle Tests grün sind.
 5. **Tets hinzufügen**
    - Stellen Sie sicher, dass der name von Personen aus mindestens 5 Zeichen besteht.
-   - Wenn nciht, soll eine Exception geworfen werden.
+   - Wenn nicht, soll eine Exception geworfen werden.
    - Implementieren Sie einen Test entsprechnden Test.
    
 7. **Mergen in den `main`-Branch:**
